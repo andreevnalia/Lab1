@@ -82,5 +82,3 @@ processing(user_input)
         create_customer()
     case"b":
         create_category()"""
-
-
