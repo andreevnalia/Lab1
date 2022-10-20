@@ -1,4 +1,4 @@
-from api_project import views
+#from api_project import views
 
 from flask import Flask
 
